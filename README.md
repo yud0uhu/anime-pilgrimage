@@ -1,7 +1,14 @@
-```ts
-npm run format:fix
+# Starting the development server
+```sh
+$ expo start
+```
+
+# Getting Started with formatter
+```sh
+$ npm run format:fix
 ```
   
-```ts
-npm run lint:fix
+# Getting Started with lint
+```sh
+$ npm run lint:fix
 ```
